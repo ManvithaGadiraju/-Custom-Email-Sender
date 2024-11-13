@@ -1,0 +1,8 @@
+1.Install dependencies: pip install streamlit pandas sendgrid openai
+2.Set up your API keys:
+
+Obtain your OpenAI API Key from OpenAI.
+Obtain your SendGrid API Key from SendGrid.
+Verify your sender email in SendGrid.
+
+3.Run the application: streamlit run email_sender.py
